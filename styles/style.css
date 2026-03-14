@@ -22,7 +22,7 @@
 
 .header__link {
   color: #000;
-  font-family: 'raleway', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 400;
   font-size: 18px;
   font-style: normal;
@@ -62,7 +62,7 @@
   width: 240px;
   padding-right: 3px;
   color: #000;
-  font-family: 'raleway', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 400;
   font-size: 18px;
   font-style: normal;
@@ -110,7 +110,7 @@
 
 .letter-spacing-extended {
   color: #fff;
-  font-family: 'raleway', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 100px;
   font-style: normal;
@@ -145,8 +145,9 @@
 
 .cover__description-text {
   z-index: 1;
+  margin-bottom: 7px;
   color: #fff;
-  font-family: 'raleway', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 400;
   font-size: 22px;
   font-style: normal;
@@ -155,15 +156,15 @@
   text-align: center;
   text-transform: uppercase;
   word-spacing: 18px;
-  margin-bottom: 7px;
 }
 
 .bet-button {
   z-index: 1;
+  margin-top: -7px;
   border: 1px solid #ffffff;
   padding: 12px 32px 11px 31px;
   color: #fff;
-  font-family: 'raleway', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 400;
   font-size: 22px;
   font-style: normal;
@@ -172,7 +173,6 @@
   text-transform: uppercase;
   background: none;
   cursor: pointer;
-  margin-top: -7px;
 }
 
 .lots {
@@ -183,7 +183,7 @@
   margin-bottom: 27px;
   margin-left: 40px;
   color: #000;
-  font-family: 'raleway', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 40px;
   font-style: normal;
@@ -239,7 +239,7 @@
   position: relative;
   z-index: 1;
   color: #fff;
-  font-family: 'raleway', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 22px;
   text-decoration-line: underline;
@@ -252,7 +252,7 @@
   position: relative;
   z-index: 1;
   color: #fff;
-  font-family: 'raleway', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 400;
   font-size: 20px;
   font-style: normal;
@@ -262,7 +262,7 @@
 .lots__look-more-link {
   margin: 30px 0 0 40px;
   color: #000;
-  font-family: 'raleway', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 400;
   font-size: 20px;
   font-style: normal;
@@ -307,7 +307,7 @@
 .about__title {
   margin-bottom: 70px;
   color: #000;
-  font-family: 'raleway', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 40px;
   font-style: normal;
@@ -317,7 +317,7 @@
 
 .about__text {
   color: #000;
-  font-family: 'raleway', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 400;
   font-size: 20px;
   font-style: normal;
@@ -346,7 +346,7 @@
   flex-direction: column;
   align-items: center;
   color: #000;
-  font-family: 'raleway', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 400;
   font-size: 18px;
   font-style: normal;
